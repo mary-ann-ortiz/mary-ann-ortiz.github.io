@@ -1,6 +1,6 @@
 # MARY ANN ORTIZ
 
-## mary-ann-ortiz.github.io
+### mary-ann-ortiz.github.io
 
 **Website Link:** [PORTFOLIO](https://maryannortiz.me/)
 
